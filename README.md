@@ -1,4 +1,4 @@
-### Hi, i'm Tiago 🙋‍♂️.
+### Hi, i'm Tiago.
 
 - 🎓 Computer Science student at the [Federal University of Goiás](https://ufg.br/).;
 - 🎯 Software development and competitive programming;
