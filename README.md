@@ -1,7 +1,7 @@
 ### Hi, i'm Tiago.
 
 - 🎓 Computer Science student at the [Federal University of Goiás](https://ufg.br/).;
-- 🎯 Software development and competitive programming;
+- 🎯 I like software development and competitive programming;
 - 🌱 I’m currently learning C, C++, TypeScript & React.
 
 ### - Languages:
