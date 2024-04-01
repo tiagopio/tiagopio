@@ -2,13 +2,13 @@
 
 - 🎓 Computer Science student at the [Federal University of Goiás](https://ufg.br/).;
 - 🎯 I like software development and competitive programming;
-- 🌱 I’m currently learning C, C++, TypeScript & React.
+- 🌱 I’m currently learning Java, TypeScript & React.
 
 ### - Languages:
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,ts,java)](https://skillicons.dev)
 
 ### - Technologies:
 [![My Skills](https://skillicons.dev/icons?i=nodejs,react,express)](https://skillicons.dev)
 
-### Contact me 💬
+### - Contact me:
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/tiagopio/)
