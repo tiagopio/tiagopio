@@ -8,7 +8,7 @@
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,ts,java)](https://skillicons.dev)
 
 ### - Technologies:
-[![My Skills](https://skillicons.dev/icons?i=nodejs,react,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,nodejs,react,express)](https://skillicons.dev)
 
 ### - Contact me:
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/tiagopio/)
