@@ -2,7 +2,7 @@
 
 - 🎓 Computer Science student at the [Federal University of Goiás](https://ufg.br/).;
 - 🎯 I like software development and competitive programming;
-- 🌱 I’m currently learning Java, TypeScript & React.
+- 🌱 I’m currently studying for ICPC.
 
 ### - Languages:
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,ts,java)](https://skillicons.dev)
