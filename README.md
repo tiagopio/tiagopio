@@ -5,7 +5,7 @@
 - 🌱 I’m currently studying for ICPC.
 
 ### - Languages:
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,ts,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,ts,py)](https://skillicons.dev)
 
 ### - Technologies:
 [![My Skills](https://skillicons.dev/icons?i=nextjs,nodejs,react,express)](https://skillicons.dev)
